@@ -19,3 +19,4 @@ To get the exact same look as in the screenshot, you need to use the [Pure](http
 
 - [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy) - Hyper version
 - [iterm2-snazzy](https://github.com/sindresorhus/iterm2-snazzy) - iTerm2 version
+- [st-snazzy](https://github.com/Dko1905/st-snazzy) - Simple Terminal version (suckless st)
