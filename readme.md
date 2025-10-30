@@ -7,9 +7,21 @@
 
 ## Install
 
+Run this command in Terminal:
+
+```bash
+curl -O https://raw.githubusercontent.com/sindresorhus/terminal-snazzy/main/Snazzy.terminal && open Snazzy.terminal
+```
+
+Then go to `Settings` → `Profiles`, click `Snazzy`, and then click the `Default` button.
+
+### Manual installation
+
+Alternatively, you can download it manually:
+
 - Right-click [`Snazzy.terminal`](https://github.com/sindresorhus/terminal-snazzy/raw/main/Snazzy.terminal) and choose `Save Link As…`.
-- Double-click the downloaded file.
-- Go to `Preferences…`, then `Profiles`, click `Snazzy`, and then click the `Default` button.
+- Remove the quarantine attribute: `xattr -d com.apple.quarantine ~/Downloads/Snazzy.terminal`
+- Double-click the file to import it.
 
 ## Tip
 
